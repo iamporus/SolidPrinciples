@@ -18,3 +18,8 @@ Anyone interested in contributing can fork and submit PR for other programming l
 - The package contains a **_bad_** implementation of an use case, typically a mock or stub which doesn't follow the respective principle.
 - Also, it has a modified **_good_** implementation of the same use case, which follows the respective principle.
 - Every package has a dedicated README for explaining the principle as well as info about the use case described. 
+
+### Note
+
+- The code examples added here are not executable in nature and will never be that way in future.
+- They only demonstrate scenarios to help understand the principles in more practical way.
