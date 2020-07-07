@@ -14,8 +14,10 @@ A class should have one, and only one, reason to change.
  ### Walkthrough of the Example
  
  - Scenario: Signing Up a new user to a Mobile/Web app.
- - Action: Head over to the **_bad_** package inside a_single_responsibility package.
- - Understand the problematic approach - BadUserSignUp class.
- - Read all the comments added.
- - Find a solution which follows Single Responsibility Principle - GoodUserSignUp class.
+ - Actions: 
+   - Head over to the **_bad_** package inside a_single_responsibility package.
+   - Understand the problematic approach - BadUserSignUp class.
+   - Read all the comments added.
+   - Head over to the **_good_** package inside a_single_responsibility package.
+   - Find a solution which follows Single Responsibility Principle - GoodUserSignUp class.
    
