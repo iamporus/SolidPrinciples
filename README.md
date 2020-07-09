@@ -5,7 +5,7 @@ at my workplace.
 
 - [**S**ingle Responsibility Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/a_single_responsibility)
 - [**O**pen Close Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/b_open_close)
-- **L**iskov Substitution Principle [TBD]
+- [**L**iskov Substitution Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/c_liskov_substitution)
 - **I**nterface Segregation Principle [TBD]
 - **D**ependency Inversion Principle [TBD]
 
