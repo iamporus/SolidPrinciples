@@ -3,11 +3,11 @@
 This repo serves as a reference to a series of technical sessions conducted on SOLID Principles
 at my workplace. 
 
-- **S**ingle Responsibility Principle
-- **O**pen Close Principle
-- **L**iskov Substitution Principle
-- **I**nterface Segregation Principle
-- **D**ependency Inversion Principle
+- [**S**ingle Responsibility Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/a_single_responsibility)
+- [**O**pen Close Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/b_open_close)
+- **L**iskov Substitution Principle [TBD]
+- **I**nterface Segregation Principle [TBD]
+- **D**ependency Inversion Principle [TBD]
 
 Currently, the examples added are written using Java programming language. 
 Anyone interested in contributing can fork and submit PR for other programming languages.
