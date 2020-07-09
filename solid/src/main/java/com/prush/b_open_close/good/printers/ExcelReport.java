@@ -14,6 +14,6 @@ public class ExcelReport extends Report {
     public String print() {
 
         // Print Report in Excel format.
-        return null;
+        return "/Report.xls";
     }
 }

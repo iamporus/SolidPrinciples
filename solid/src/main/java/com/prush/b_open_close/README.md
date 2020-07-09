@@ -14,7 +14,7 @@ Software entities (classes, modules, functions, etc.) should be open for extensi
    - Decorator Pattern
    - Factory Method Pattern
  
- ### Walkthrough of the Example
+### Walkthrough of the Example
  
  - Scenario: Printing a Report/Invoice to a file for a purchase order.
  - Actions: 

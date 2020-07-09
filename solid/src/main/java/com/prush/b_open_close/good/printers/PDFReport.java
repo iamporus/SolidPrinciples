@@ -14,6 +14,6 @@ public class PDFReport extends Report {
     public String print() {
 
         // Print Report in PDF format.
-        return null;
+        return "/Report.pdf";
     }
 }

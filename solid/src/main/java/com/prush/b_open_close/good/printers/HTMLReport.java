@@ -11,6 +11,6 @@ public class HTMLReport extends Report {
     public String print() {
 
         // Code to print the Report in HTML format.
-        return "";
+        return "/Report.html";
     }
 }
