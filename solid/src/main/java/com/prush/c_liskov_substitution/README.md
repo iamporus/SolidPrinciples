@@ -7,7 +7,7 @@
 ### Benefits
 
  - You can use your subclasses interchangeably without seeing unexpected behaviors.
- - Zero empty/exception throwing methods in your classes.
+ - Less overridden methods that are empty or throws an exception.
 
 ### Insights
 
@@ -15,7 +15,7 @@
  
 ### Walkthrough of the Example
  
- - Scenario: Managing content (audio/video/blog) for Free,Paid and Guest users of the system.
+ - Scenario: Managing content (eg. audio/video/blog) for Free and Paid users of the system.
  - Actions: 
    - Head over to the **_bad_** package.
    - Understand the problematic approach - **BadUserContentBrowse** class.
