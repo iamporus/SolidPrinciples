@@ -3,11 +3,11 @@
 This repo serves as a reference to a series of technical sessions conducted on SOLID Principles
 at my workplace. 
 
-- [**S**ingle Responsibility Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/a_single_responsibility)
-- [**O**pen Close Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/b_open_close)
-- [**L**iskov Substitution Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/c_liskov_substitution)
-- [**I**nterface Segregation Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/d_interface_segregation)
-- [**D**ependency Inversion Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/e_dependency_inversion)
+- [**S**ingle Responsibility Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/solid_principles/a_single_responsibility)
+- [**O**pen Close Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/solid_principles/b_open_close)
+- [**L**iskov Substitution Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/solid_principles/c_liskov_substitution)
+- [**I**nterface Segregation Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/solid_principles/d_interface_segregation)
+- [**D**ependency Inversion Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/solid_principles/e_dependency_inversion)
 
 Currently, the examples added are written using Java programming language. 
 Anyone interested in contributing can fork and submit PR for other programming languages.
