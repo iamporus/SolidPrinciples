@@ -7,7 +7,7 @@ at my workplace.
 - [**O**pen Close Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/b_open_close)
 - [**L**iskov Substitution Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/c_liskov_substitution)
 - [**I**nterface Segregation Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/d_interface_segregation)
-- **D**ependency Inversion Principle [TBD]
+- [**D**ependency Inversion Principle](https://github.com/iamporus/SolidPrinciples/tree/master/solid/src/main/java/com/prush/e_dependency_inversion)
 
 Currently, the examples added are written using Java programming language. 
 Anyone interested in contributing can fork and submit PR for other programming languages.
